@@ -1,15 +1,11 @@
 ## ![Typing SVG](https://readme-typing-svg.demolab.com?font=Poppins&weight=500&size=40&duration=6000&pause=100&color=00BFA6&multiline=true&repeat=false&width=1000&height=120&lines=Hello%2C+world+%F0%9F%91%8B+I%27m+Kshitija+(Chauhan);+%E2%9C%94%EF%B8%8F+In+corp+,+trying+to+stay+in+corp.+%F0%9F%8E%88)
 
-<div align="center">
-  <br><br>
+<div align="left">
+  
   <a href="mailto:kshitija.chauhan@sap.com"><img src="https://img.shields.io/badge/Gmail-d5d5d5?style=for-the-badge&logo=gmail&logoColor=0A0209" alt="Email" /></a>
   <a href="https://linkedin.com/in/kshitija-chauhan-82593020b"><img src="https://img.shields.io/badge/LinkedIn-d5d5d5?style=for-the-badge&logo=linkedin&logoColor=0A0209" alt="LinkedIn" /></a>
   <a href="https://dev.to/kshcha002"><img src="https://img.shields.io/badge/dev.to-d5d5d5?style=for-the-badge&logo=devdotto&logoColor=0A0209" alt="Dev.to" /></a>
 </div>
-
-<br>
-
-
 
 <div>
 
@@ -36,8 +32,10 @@ Go · REST APIs · SAP BTP · SAP HANA · Postman · CMIS Workbench`
 `JavaScript · SAP CAP · SAPUI5 · SAP BTP · OPA5`
 
 </details>
-
-
+<br>
+<hr>
+<div>
+  
 ### Hands On
 
 - [**Volunteer Resource Management System (VRMS)**](https://github.com/BITSSAP2025AugAPIBP3Sections/APIBP-20242YB-Team-06)
@@ -45,11 +43,12 @@ Go · REST APIs · SAP BTP · SAP HANA · Postman · CMIS Workbench`
 - [**Automated Static Website Hosting on AWS with Terraform**](https://github.com/KshCha002)
 - [**D-R Matching System for Heart Transplant**](https://github.com/KshCha002)
 
-
+</div>
 
 
 <hr>
 
+</div>
 
 ### Languages & Tools
 
@@ -68,16 +67,16 @@ Go · REST APIs · SAP BTP · SAP HANA · Postman · CMIS Workbench`
   <a href="https://www.selenium.dev" target="_blank"><img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/></a>
   <a href="https://www.w3schools.com/cpp/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/></a>
   <a href="https://code.visualstudio.com" target="_blank"><img src="https://devicon-website.vercel.app/api/vscode/original.svg" alt="cplusplus" width="40" height="40"/></a>
-
 </p>
+</div>
 
-<br>
+<hr>
 
-
-
+<div>
+  
+### Stats lately
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kshcha002&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kshcha002&theme=tokyonight" alt="GitHub Streak" />
 </p>
-<p align="center">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kshcha002&theme=swift" alt="GitHub Streak" />
-</p>
+</div>
+<hr>
