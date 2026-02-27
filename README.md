@@ -5,6 +5,8 @@
   <a href="mailto:kshitija.chauhan@sap.com"><img src="https://img.shields.io/badge/Gmail-d5d5d5?style=for-the-badge&logo=gmail&logoColor=0A0209" alt="Email" /></a>
   <a href="https://linkedin.com/in/kshitija-chauhan-82593020b"><img src="https://img.shields.io/badge/LinkedIn-d5d5d5?style=for-the-badge&logo=linkedin&logoColor=0A0209" alt="LinkedIn" /></a>
   <a href="https://dev.to/kshcha002"><img src="https://img.shields.io/badge/dev.to-d5d5d5?style=for-the-badge&logo=devdotto&logoColor=0A0209" alt="Dev.to" /></a>
+  <a href="https://medium.com/@2024sl93101"><img src="https://img.shields.io/badge/Medium-d5d5d5?style=for-the-badge&logo=medium&logoColor=0A0209" alt="Medium" /></a>
+  
 </div>
 
 <div>
