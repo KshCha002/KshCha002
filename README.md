@@ -28,7 +28,7 @@ News by Using the Machine Learning Approaches", — *IEEE ICRITO 2022, Noida, In
   <summary>While at SAP</summary>
 
 -**Project 2: SAP BTP Document Management Service –** 
-Go · REST APIs · SAP BTP · SAP HANA · Postman · CMIS Workbench`
+`Go · REST APIs · SAP BTP · SAP HANA · Postman · CMIS Workbench`
 
 -**Project 1: Public Cloud ERP –** 
 `JavaScript · SAP CAP · SAPUI5 · SAP BTP · OPA5`
