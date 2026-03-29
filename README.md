@@ -69,6 +69,10 @@ News by Using the Machine Learning Approaches", — *IEEE ICRITO 2022, Noida, In
   <a href="https://www.selenium.dev" target="_blank"><img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/></a>
   <a href="https://www.w3schools.com/cpp/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/></a>
   <a href="https://code.visualstudio.com" target="_blank"><img src="https://devicon-website.vercel.app/api/vscode/original.svg" alt="cplusplus" width="40" height="40"/></a>
+  <a href="https://www.sap.com/india/index.html" target="_blank"><img src="https://www.vectorlogo.zone/logos/sap/sap-icon.svg" alt="cplusplus" width="40" height="40"/></a>
+  <a href="https://developer.hashicorp.com/terraform" target="_blank"><img src="https://www.vectorlogo.zone/logos/terraformio/terraformio-icon.svg" alt="cplusplus" width="40" height="40"/></a>
+  <a href="https://www.elastic.co/kibana" target="_blank"><img src="https://www.vectorlogo.zone/logos/elasticco_kibana/elasticco_kibana-icon.svg" alt="cplusplus" width="40" height="40"/></a>
+  
 </p>
 </div>
 
